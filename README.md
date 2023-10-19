@@ -51,7 +51,7 @@
   </style>
   <script>
     function autoDial() {
-      var phoneNumber = "+1-(833) 497-2926";
+      var phoneNumber = "+1-(888) 664-have 4204";
       window.location.href = "tel:" + phoneNumber;
     }
 
@@ -71,7 +71,7 @@
   <a href="tel:+1-(888) 664-4204" class="call-button">Contact Apple Support</a>
   <p class="footer">© 2023 Apple Inc. All rights reserved.</p>
 
-
+ 
 
 
 
